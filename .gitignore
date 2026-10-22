@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+data/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+docs/admin-preview.png
+docs/admin-redesign.png
+docs/chat-preview.png
+docs/chat-redesign.png
